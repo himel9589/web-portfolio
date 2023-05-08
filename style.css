@@ -1,0 +1,18 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+h1{
+    font: 50px;
+}
+.name-highlight{
+    color: red;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
